@@ -1,0 +1,6 @@
+#N canvas 15 49 200 200 10;
+#N canvas 216 43 420 300 META 0;
+#X text 10 10 VERSION 0.1;
+#X text 10 25 AUTHOR megrimm@gmail.com;
+#X text 13 41 NAME bytebeat~;
+#X restore 10 10 pd META;
