@@ -1,11 +1,11 @@
 ## Pd library template version 1.0
 # For instructions on how to use this template, see:
 #  http://puredata.info/docs/developer/MakefileTemplate
-LIBRARY_NAME = bytebeat_166~
+LIBRARY_NAME = bytebeat_191~
 
 # add your .c source files to the SOURCES variable, help files will be
 # included automatically
-SOURCES = bytebeat_166~.c
+SOURCES = bytebeat_191~.c
 
 # For objects that only build on certain platforms, add those to the SOURCES
 # line for the right platforms.
